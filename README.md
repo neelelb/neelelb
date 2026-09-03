@@ -1,7 +1,7 @@
-### Hi all! 
-I'm Neele 👩🏻‍💻 and this is what I'm up to right now:
+### Hi! 
+I'm Neele, a cognitive neuroscientist in training. This is what I'm up to right now:
 
-- 🎓 PhD-student in cognitive neuroscience at Hamburg University
-- 📍 currently studying the effect of prediction errors on memory with a focus on replay in humans
-- 🧠 finished my master's at FU Berlin & wrote my thesis at the NeuroCode Research Group at Max-Planck-Institute Berlin
-- 🌱 learning to code mainly in python (and rarely R)
+- 🎓 PhD candidate in cognitive neuroscience at Hamburg University at the Latent Learning Lab and the Cognitive Psychology Lab. 
+- 📍 currently looking at prediction errors, memory, neural replay, and value learning in humans
+- 🧠 finished my master's at FU Berlin & wrote my thesis at the Latent Learning Lab (formerly NeuroCode Research Group) at Max-Planck-Institute Berlin
+- 🌱 learning to code mainly in python and R
